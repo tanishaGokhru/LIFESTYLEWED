@@ -1,0 +1,2004 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Monoton&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Satisfy&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Satisfy&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Sigmar&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Courgette&family=Gloria+Hallelujah&family=Luckiest+Guy&family=Macondo&family=Monoton&family=Rampart+One&family=Rubik+Moonrocks&family=Rubik+Puddles&family=Rubik+Vinyl&family=Satisfy&family=Sigmar&family=Special+Elite&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+.nav{
+    margin-left: 10px;
+    padding-left:0 1.5em;
+    
+}
+.navbar{
+    font-family: 'Sigmar', cursive;
+    font-size: 80px;
+    color:darkcyan;
+    list-style: none;
+    text-decoration: underline;
+    text-shadow: #ffccff;
+}
+
+.navbarLI{
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    list-style: none;
+    color:black;
+}
+.header{
+    overflow:hidden;
+    position: fixed;
+    background-color:#ffccff;
+    top:0;
+    width: 120%;
+
+}
+
+.div {
+    background: linear-gradient(to left, #663300 0%, #ffffff 100%);
+}
+.category{
+    position:relative;
+    text-align: center;
+    color:black;
+    font-size: 50px;
+    font-weight: bolder;
+    padding:50px;
+    border-color: #663300;
+    
+    
+}
+
+.viral{
+    background-color:#c9588d;
+    color:white;
+    font-size: 40px;
+    text-align:justify;
+    font-family: 'Courgette', cursive; 
+}
+.Vcircle1{
+    height:300px;
+    width: 320px;
+    background-color:rgb(201, 160, 239);
+    
+
+}
+
+.Vcircle2{
+    height:300px;
+    width: 320px;
+    background-color:rgb(248, 248, 210);
+    border-radius: 100px;
+
+}
+.Vcircle3{
+    height:300px;
+    width: 320px;
+    background-color: rgb(201, 160, 239);
+    border-radius: 100px;
+}
+.Vcircle4{
+    height:300px;
+    width: 320px;
+    background-color:rgb(213, 154, 154);
+    border-radius: 100px;
+}
+.headone{
+    font-family: 'Cabin Sketch', cursive;
+    font: size 40px;
+    font-weight: bold;
+
+}
+.container{
+    height:320px ;
+    width:1000px ;
+    background-color:rosybrown;
+    text-underline-position:below;
+    border-radius: 1000px;
+    font-size:20px ;
+    font-family: 'Satisfy', cursive;
+}
+
+.headtwo{
+    font-size: 65px;
+    font-family: 'Rubik Vinyl', cursive;
+    color:#ffff00;
+}
+
+.course{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.courseinfo{
+    text-align: center;
+    font-size: 25px;
+}
+
+.applyNow{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 25px 42px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 26px;
+    align-items: center;
+}
+
+.quote1{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.quote2{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.quote3{
+    background-color:rosybrown;
+    color: black;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.promise{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration:wavy;
+}
+
+.headthree{
+    
+    color:brown;
+}
+
+.promise1{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+}
+
+.promise2{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+
+.promise3{
+    border-radius: 1000px;
+    
+    height: 100px;
+    width: 300px;
+    font-size: 25px;
+}
+.circle1{
+    height:300px;
+    width: 320px;
+    background-color:#ffccff;
+    border-radius: 500px;
+
+}
+
+.circle2{
+    height:300px;
+    width: 320px;
+    background-color:rosybrown;
+    border-radius: 500px;
+
+}
+.circle3{
+    height:300px;
+    width: 320px;
+    background-color: #ffccff;
+    border-radius: 500px;
+}
+.circle4{
+    height:300px;
+    width: 320px;
+    background-color:rosybrown;
+    border-radius: 500px;
+}
+.circle5{
+    height:300px;
+    width: 320px;
+    
+    border-radius: 500px;
+}
+.price{
+    background-color:#663300;
+    color:white;
+    font-size: 50px;
+    text-align:justify;
+    font-family: 'Courgette', cursive; 
+    
+}
+
+.footer{
+    height: 200px;
+    background-color:black;
+    color: white;
+    font-size: 30px;
+}
+
+.subfooter{
+    height: 70px;
+    background-color: rgb(60, 59, 59);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+}
+.insta{
+    height:50px;
+    width: 50px;
+}
+.face{
+    height:50px;
+    width: 50px;
+}
+
+.Sstore{
+    font-weight: bolder;
+    font-size: 70px;
+}
+.logbg{
+    background-color:lightblue;
+    text-align: justify;
+}
+
+.p1{
+    text-align: center;
+    font-size:50px;
+    
+}
+
+.p2{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Rubik Vinyl', cursive;
+    font-weight: bolder;
+    color:darkblue;
+    text-shadow: #ffffff  ;
+}
+.p3{
+    text-align: center;
+    font-size: 35px;
+}
+.p4{
+    text-align: center;
+    font-size: 40px;
+}
+.check{
+    font-size: 30px;
+    align-items: justify;
+    display: grid;
+    place-items:center;
+   
+    background-color:lightblue;
+
+    color:black;
+   
+}
+.check1{
+    font-size: 30px;
+    background-color: rgb(166, 207, 221);
+}
+.logbut{
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    background-color:  rgb(201, 229, 238);
+    border: none;
+    color:black;
+    padding: 25px 42px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+.logbut:hover{
+    background-color:rgb(127, 127, 233);
+}
+
+
+/* For skincare products details */
+
+.skc11:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc1:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont1{
+    position: relative;
+    text-align: center;
+}
+.SKdetails1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.SKdetails1::after{
+    content: " __The Ordinary__ Salicylic Acid 2% Solution (30ml) - Rs 550";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: #ffff00;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails1:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+
+.skc22:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc2:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont2{
+    position: relative;
+    text-align: center;
+}
+.SKdetails2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.SKdetails2::after{
+    content: "__The Derma Co__ 2% Kojic Acid Face Serum With 1% Alpha Arbutin & Niacinamide (30ml)- Rs 499";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:palevioletred;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails2:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.skc33:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc3:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont3{
+    position: relative;
+    text-align: center;
+}
+.SKdetails3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #ffffff;
+}
+.SKdetails3::after{
+    content: "____Minimalist____ 10% Niacinamide Face Serum With Matmarine + Zinc For Reducing Oil & Blemishes (30ml)- Rs 599";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:lightblue;
+    position: absolute; 
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails3:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.skc44:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc4:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont4{
+    position: relative;
+    text-align: center;
+}
+.SKdetails4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.SKdetails4::after{
+    content: "___Aqualogica___ Illuminate + Dewy Sunscream with Wild Berries & Alpha Arbutin - SPF 50+ PA++++ -UVA/B (50ml)- Rs 449";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: orangered;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails4:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.skc55:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc5:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont5{
+    position: relative;
+    text-align: center;
+}
+.SKdetails5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.SKdetails5::after{
+    content: "_____Re'equil_____ Ultra Matte Dry Touch Sunscreen Gel SPF 50 PA ++++ UVA (50g)- Rs 780";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:plum;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails5:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.skc66:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc6:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont6{
+    position: relative;
+    text-align: center;
+}
+.SKdetails6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:yellow;
+}
+.SKdetails6::after{
+    content: "____Minimalist____ SPF 50 PA++++ Sunscreen with Multi-Vitamin for Reducing Photoaging & No White Cast (50g)- Rs 399";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:darkcyan;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails6:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.skc77:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc7:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont7{
+    position: relative;
+    text-align: center;
+}
+.SKdetails7{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.SKdetails7::after{
+    content: "_____Hyphen_____ Vitamin Infused Peptide Lip Balm - Peach For Dry & Chapped Lip, Hydrates & Moisturizes (10g)- Rs 349";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:cornflowerblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails7:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.skc88:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc8:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont8{
+    position: relative;
+    text-align: center;
+}
+.SKdetails8{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.SKdetails8::after{
+    content: "____Dot & Key____ SPF 30 Tinted Gloss Lip Balm with Vitamin C + E -Strawberry Crush (12g)- Rs 249";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:aqua;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails8:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.skc99:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc9:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont9{
+    position: relative;
+    text-align: center;
+}
+.SKdetails9{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.SKdetails9::after{
+    content: "____Minimalist____ SPF 30 Lip Balm (8g)- Rs 299";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:crimson;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails9:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.skc100:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc10:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont10{
+    position: relative;
+    text-align: center;
+}
+.SKdetails10{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.SKdetails10::after{
+    content: "____Dot & Key____ Hyaluronic + Ceramide Barrier Repair Hydrating Face Moisturizer Cream, Normal to Dry Skin (100g)- Rs 395";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:lightcoral;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails10:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.skc111:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc11:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont11{
+    position: relative;
+    text-align: center;
+}
+.SKdetails11{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.SKdetails11::after{
+    content: "____Pilgrim____ Squalane Glow Moisturizer with Niacinamid & Vitamin C (50g)- Rs 550";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:cornflowerblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails11:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.skc222:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.skc12:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.cont12{
+    position: relative;
+    text-align: center;
+}
+.SKdetails12{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.SKdetails12::after{
+    content: "____Cetaphil____ Moisturising Cream for Dry to very dry Sensitive skin, Dermatologist Recommended (80g)- Rs 599";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:peru;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.SKdetails12:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+/* For bath & body care products details */
+
+.bbc11:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc1:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont1{
+    position: relative;
+    text-align: center;
+}
+.BBdetails1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails1::after{
+    content: "_____DOVE____ Exfoliating Body Polish - Crushed Macadamia And Rice Milk (298g)- Rs 799";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: #ffff00;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails1:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc22:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc2:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont2{
+    position: relative;
+    text-align: center;
+}
+.BBdetails2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails2::after{
+    content: "___Be Bodywise___ 1% Salicylic Acid Body Wash - Prevents Body Acne - SLS & Paraben Free - Shower Gel (250ml)- Rs 349";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:pink;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails2:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc33:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc3:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont3{
+    position: relative;
+    text-align: center;
+}
+.BBdetails3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails3::after{
+    content: "___The Body Shop___ British Rose Shower Gel (250ml)- Rs 495";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:powderblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails3:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc44:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc4:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont4{
+    position: relative;
+    text-align: center;
+}
+.BBdetails4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails4::after{
+    content: "_____Bodywise____ 4% AHA BHA Underarm Roll On- Treats Pigmentation & Odour - Lactic Acid & Salicylic Acid (50ml)- Rs 349";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:rgb(201, 160, 239);
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails4:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.bbc55:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc5:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont5{
+    position: relative;
+    text-align: center;
+}
+.BBdetails5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails5::after{
+    content: "___Chemist at Play___ 5% AHA Underarm Roll On Deodrant Lactic Acid Men & Women - Royal Oudh Fragrance (40ml)- Rs 299";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: palegreen;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails5:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc66:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc6:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont6{
+    position: relative;
+    text-align: center;
+}
+.BBdetails6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails6::after{
+    content: "______Plum_____ BodyLovin'Hawaiian Rumba Deodorant Roll-On Controls Underarm Odor (50ml)- Rs 299";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:orchid;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails6:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc77:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc7:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont7{
+    position: relative;
+    text-align: center;
+}
+.BBdetails7{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails7::after{
+    content: "____Vaseline____ Gluta-Hya Dewy Radiance, Serum-In-Lotion, Boosted with Niacinamide And GlutaGlow (200ml)- Rs 300";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:cornflowerblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails7:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc88:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc8:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont8{
+    position: relative;
+    text-align: center;
+}
+.BBdetails8{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails8::after{
+    content: "_____NIVEA____ Vit E Body Milk Serum - 5 in 1 Complete Care for 48H Nourished & Smooth Skin (Very Dry Skin) (400ml)- Rs 460";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: lemonchiffon;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails8:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc99:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc9:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont9{
+    position: relative;
+    text-align: center;
+}
+.BBdetails9{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails9::after{
+    content: "____Cetaphil____ Moisturising Lotion For Dry To Normal Sensitive Skin - Dermatologist Recommended (100ml)- Rs 549";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:plum;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails9:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc100:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc10:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont10{
+    position: relative;
+    text-align: center;
+}
+.BBdetails10{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails10::after{
+    content: "______LUX_____ Essencw of Himalayas Rose & Aloe Vera Body Scrub (300g)- Rs 500";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: cadetblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails10:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc111:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc11:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont11{
+    position: relative;
+    text-align: center;
+}
+.BBdetails11{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails11::after{
+    content: "____NYKAA____ Wanderlust Mediterranean Sea Salt Body Wash with Freah Aquatic Scent + 0% Paraben (100% Vegan) (300ml)- Rs 399";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: orangered;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails11:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.bbc222:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.bbc12:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.bbcont12{
+    position: relative;
+    text-align: center;
+}
+.BBdetails12{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.BBdetails12::after{
+    content: "_____PLUM_____ BodyLovin' Coffee Wake-a-ccino Body Scrub (100gm)- Rs 550";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: cyan;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.BBdetails12:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+/* For Luxe Products detaild */
+
+.luc11:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc1:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont1{
+    position: relative;
+    text-align: center;
+}
+.Ldetails1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: bisque;
+}
+.Ldetails1::after{
+    content: "____Estee Lauder____ Advanced Night Repair Synchronized Multi-Recovery Complex Serum with Tripeptide-32 (20ml)- Rs 4,300";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: #ffff00;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails1:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc22:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc2:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont2{
+    position: relative;
+    text-align: center;
+}
+.Ldetails2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+}
+.Ldetails2::after{
+    content: "_______PIXI_______ Rose Oil Blend (30ml)- Rs 2800";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: darkorange;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails2:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc33:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc3:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont3{
+    position: relative;
+    text-align: center;
+}
+.Ldetails3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails3::after{
+    content: "_______DIOR_______ Forever Cushion Powder - 030 Medium (10g)- Rs 7300";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: orchid;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails3:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc44:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc4:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont4{
+    position: relative;
+    text-align: center;
+}
+.Ldetails4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails4::after{
+    content: "_____Clinique_____ Moisture Surge SPF 25 Sheer Hydrator (Moisturiser + Sunscreen) (50ml)- Rs 3550";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: greenyellow;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails4:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc55:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc5:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont5{
+    position: relative;
+    text-align: center;
+}
+.Ldetails5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails5::after{
+    content: "_Yves Saint Laurent_ Libre Eau De Parfum (90ml)- Rs 9400";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:rgb(127, 127, 233);
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails5:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc66:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc6:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont6{
+    position: relative;
+    text-align: center;
+}
+.Ldetails6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails6::after{
+    content: "______CHANEL____ N'5 Eau de Parfum Spray (1.2 FL. OZ.)- $108 ";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:palegreen;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails6:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc77:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc7:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont7{
+    position: relative;
+    text-align: center;
+}
+.Ldetails7{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails7::after{
+    content: "__Charlotte Tilbury__ Pillow Talk Multi-glow - Dream Light (7g)- Rs 4300 ";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: darkred;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails7:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc88:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc8:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont8{
+    position: relative;
+    text-align: center;
+}
+.Ldetails8{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails8::after{
+    content: "__Moroccanoil____ Frizz Shield Spray (50ml)- Rs 1778";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:lightgoldenrodyellow;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails8:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc99:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc9:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont9{
+    position: relative;
+    text-align: center;
+}
+.Ldetails9{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails9::after{
+    content: "____REDKEN______ Acidic Bonding Concentrate Shampoo - Bonding Care Complex For Damaged Hair (300ml)- Rs 2100";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: cornflowerblue;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails9:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+
+.luc100:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc10:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont10{
+    position: relative;
+    text-align: center;
+}
+.Ldetails10{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails10::after{
+    content: "____Versace______ Bright Crystal Eau De Toilette";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: coral;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails10:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc111:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc11:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont11{
+    position: relative;
+    text-align: center;
+}
+.Ldetails11{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails11::after{
+    content: "_____OLAPLEX ____ No 4 Bond Maintenance Strengthening Shampoo (100ml)- Rs 1700";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color:cadetblue; 
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails11:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+.luc222:hover{
+    opacity: 1;
+    filter: blur(3px); 
+}
+.luc12:hover{
+    background-color:white;
+    border-radius: 500px; 
+    height: 400px;
+    width: 400px;
+    opacity:40%;
+}
+.lcont12{
+    position: relative;
+    text-align: center;
+}
+.Ldetails12{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+}
+.Ldetails12::after{
+    content: "___Fenty Beauty____ Gloss Bomb Universal Lip Luminizer - Riri (9ml)- Rs 2050";
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: orchid;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    height:200px;
+    width: 200px;
+    filter: blur(0px);
+}
+.Ldetails12:hover::after{
+    visibility: visible;
+    opacity: 100%;
+}
+
+/*--------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
